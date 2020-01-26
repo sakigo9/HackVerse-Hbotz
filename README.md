@@ -9,7 +9,7 @@ diaglogflow integration
    4. Run index.html from bot-ui-master.
    5. Explore the hbotz. It is a health bot that helps you to get info about the website and also add you Zulip Channel where you can    interact with doctors present in the channel.
    
-   ! (http://drive.google.com/uc?export=view&id=1oOMYgBkf05WLXFu3xixeEorEDQnDHBbv)
+   !(http://drive.google.com/uc?export=view&id=1oOMYgBkf05WLXFu3xixeEorEDQnDHBbv)
    
    
    
